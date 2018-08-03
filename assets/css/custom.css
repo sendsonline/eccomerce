@@ -1,0 +1,71 @@
+.btn-orange{
+  background-color: #BF360C;
+  color: #fff;
+}
+.btn-orange:hover{
+  background-color: #DD2C00;
+  color: #fff;
+}
+.input-head{
+  border-radius: 1px;
+  padding: 3px;
+  font-size: 1rem;
+  box-shadow: none !important;
+  border: 1px solid #eee;
+  width: 400px;
+}
+.searchForm{
+  margin-top: 15px;
+}
+.margin-top50{
+  margin-top: 50px;
+}
+.margin-top40{
+  margin-top: 40px;
+}
+.margin-top90{
+  margin-top: 90px;
+}
+.margin-bottom50{
+  margin-bottom: 50px;
+}
+.btn-buyNow{
+  background-color: #EF6C00;
+  color: #fff;
+  width: 100%;
+  display: none;
+  font-size: 1.2rem;
+  border: 2px solid #EF6C00;
+}
+.btn-buyNow:hover{
+  color: #EF6C00;
+  background-color: #fff;
+  border: 2px solid #EF6C00;
+
+}
+.btn-cart{
+  background-color: #EF6C00;
+  color: #fff;
+  width: 100%;
+  font-size: 1.6rem;
+  border: 2px solid #EF6C00;
+}
+.btn-cart:hover{
+  color: #EF6C00;
+  background-color: #fff;
+  border: 2px solid #EF6C00;
+
+}
+.min-height{
+  min-height: 500px;
+}
+.btn-cont{
+  background-color: #fff;
+  border: 0px;
+}
+.input-form{
+  width: 300px;
+  border: 1px solid #BDBDBD;
+  padding: 4px 10px;
+  box-shadow: none;
+}

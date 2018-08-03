@@ -1,0 +1,88 @@
+.outer-wrapper{
+  overflow: hidden;
+}
+.navbar-bg{
+  background-color: #263238;
+}
+.navbar-brand, .navbar-brand:hover{
+  color: #F57C00 !important;
+  text-decoration: underline;
+}
+ul.navbar-nav li a{
+  font-size: 1.2rem !important;
+  color: #BDBDBD !important;
+}
+ul.navbar-nav li a:hover{
+  color: #fff !important;
+}
+ul.navbar-nav li:hover ul.dropdown-menu{
+  display: inline-block !important;
+  transition: .5s;
+}
+ul.dropdown-menu li a{
+  font-size: 1.2rem !important;
+  color: #263238 !important;
+}
+.orange{
+  color: #EF6C00 !important;
+}
+.cart{
+  font-size: 2.5rem !important;
+  color: #BDBDBD !important
+}
+.cart:hover{
+  color: #fff !important;
+}
+ul.navbar-under{
+  list-style-type: none;
+    margin: auto;
+    padding: 0;
+    display: block;
+}
+ul.navbar-under li a{
+    display: inline;
+    width: 60px;
+    color: #fff;
+    font-weight: 250;
+    font-size: 1.2rem;
+    padding: 5px 0px !important;
+    text-align: center;
+}
+ul.navbar-under li:hover a{
+  border-bottom: 3px solid #E65100;
+  color:#263238 ;
+  text-decoration: none;
+}
+.active-link{
+  background-color: #fff;
+}
+.active-link a{
+  border-bottom: 3px solid #E65100;
+  color:#263238 !important;
+  text-decoration: none;
+}
+ul.navbar-under li{
+  float: left;
+  padding: 5px 50px;
+}
+ul.navbar-under li:hover{
+  background-color: #fff;
+}
+.separator{
+  border-top: 1px solid #455A64;
+}
+ul.dropdown-under{
+  list-style-type: none;
+    margin: auto;
+    padding: 0;
+    display: block;
+    background-color: #fff;
+    position: absolute;
+}
+.ind{
+  color: #F57C00 !important;
+  margin-top: 50px;
+  font-weight: bolder;
+  font-size: 8rem;
+  text-decoration: underline;
+}
